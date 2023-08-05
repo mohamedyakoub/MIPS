@@ -1,2 +1,1 @@
-# MIPS
-A single cycle 32 MIPS Processor
+# A single cycle 32 MIPS Processor
